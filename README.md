@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @minhaz18061997
 - 👀 I’m interested in BlockChain, IT, Cybersecurity & Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my [email](minhaz18061997@gmail.com)
+- 📫 How to reach me through my [email](mailto:minhaz18061997@gmail.com)
 
 ## Skills
 ### Language
